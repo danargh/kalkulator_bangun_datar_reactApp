@@ -1,5 +1,11 @@
 # Aplikasi Hitung Luas Bangun Datar - Junior Web Programmer - LSP
 
+Website didesain memiliki satu halaman yang interaktif tanpa menyimpan data ke dalam database. Sebagai penggantinya pengguna dapat mendownload data perhitungan dengan format json
+
+## Screenshot
+![Screenshot_20221217_052012](https://user-images.githubusercontent.com/78610870/208199543-188fd23a-6d47-406e-a1aa-5c96aaf179dd.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
